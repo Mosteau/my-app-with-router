@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
       <h1>Nous vous souhaitons la bienvenue à la page Home</h1>
-        <p>Y fait {weather}, tocard🖕</p>  
+        <p>Voici la météo{weather},</p>  
       
     </>
   );
